@@ -1,1 +1,0 @@
-sistema criado pra criar arquivos no banco de dados SQLite3, como teste coloquei como fosse uma livraria porém o codigo pode ser usado em outros abiente de trabalho que precisa de armazenamento de dados e manipulações.
